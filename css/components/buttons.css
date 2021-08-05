@@ -1,0 +1,13 @@
+.btn-call-to-action {
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  background-color: rgb(212, 0, 0);
+  padding: 12px 24px;
+
+}
+
+.btn-call-to-action:hover {
+  padding: 16px 28px;
+  border: solid whitesmoke;
+}
